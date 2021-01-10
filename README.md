@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a Discord Bot!
 - 🌱 I’m currently **attempting** to learn everything 🤣
-- 🥅 2020 Goals: Learn [Rust](https://rust-lang.org)
+- 🥅 2021 Goals: Learn [Vue](https://v3.vuejs.org) + [Nuxt.js](https://nuxtjs.org). Improve on [Rust])(https://rust-lang.org)
 - 💬 Cool quote: A lie is just a great story ruined by the truth 😉
 
 ### Languages and Tools
